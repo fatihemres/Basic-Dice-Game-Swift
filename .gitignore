@@ -1,0 +1,14 @@
+# Local Xcode state. Existing tracked files are not deleted.
+**/xcuserdata/
+*.xcuserstate
+
+# Generated outputs
+DerivedData/
+build/
+.build/
+*.ipa
+*.dSYM
+*.dSYM.zip
+.DS_Store
+
+# Keep shared xcshareddata/xcschemes files in Git.
